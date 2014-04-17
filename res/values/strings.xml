@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HelpLight</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_manager">MainActivity</string>
+
+    <string-array name="contacts">
+        <item>Duke Police</item>
+        <item>Chris Dee</item>
+    </string-array>
+    <string-array name="numbers">
+        <item>2549781454</item>
+        <item>2549781454</item>
+    </string-array>
+
+    <string name="ChosenNumber">2549781454</string>
+    <string name="title_activity_map">MapAct</string>
+    <string name="BackgroundBlue">#0000FF</string>
+    <string name="ButtonBlue">#95FFFFFF</string>
+
+</resources>
